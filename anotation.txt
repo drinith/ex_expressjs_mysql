@@ -1,0 +1,4 @@
+npm init
+npm install express --save
+
+*No mysql lembrar de criar um outro usuário para não necessitar subir como root
